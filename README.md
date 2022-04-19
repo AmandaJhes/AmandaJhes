@@ -5,7 +5,7 @@ I’m learning C#, React, and .NET.
 
 
 <div>
-  <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api?username=AmandaJhes&show_icons=true&theme=radical">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=AmandaJhes&show_icons=true&theme=radical">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaJhes&layout=compact&show_icons=true&theme=radical">
 </div>
 
