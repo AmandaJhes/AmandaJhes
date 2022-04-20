@@ -1,6 +1,5 @@
 
 
-![BANNER-GITHUB-FINAL](https://user-images.githubusercontent.com/87491868/164143019-4d954785-fbe6-43de-bbec-950fca3918d8.png)
 
 ### 
 
