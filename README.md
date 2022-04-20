@@ -27,4 +27,8 @@
 </div>
   
   #
+  
+ <p align="center">
+  One, remenber to look up at the stars and not down at your feet. Two, never give up work giver you meaning and purpose and life is empty without it. Three, be curious. Four, however difficult life may seem, there is always something you can do and suceed at. Five, It matters that you dont just give up.
+</p>
 
