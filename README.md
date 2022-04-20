@@ -2,18 +2,21 @@
 
 ![BANNER-GITHUB-FINAL](https://user-images.githubusercontent.com/87491868/164143019-4d954785-fbe6-43de-bbec-950fca3918d8.png)
 
-### <h1 align="text-center">Hi there, i'm Amanda Nascimento 👋</h1>
-
-I’m currently working on projects using C# language and .NET platform.
-I’m learning C#, React, and .NET.
+### 
 
 
-<div>
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=AmandaJhes&show_icons=true&theme=radical">
-  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaJhes&show_icons=true&theme=radical">
+
+
+<div align="center">
+  <h1 align="text-center">About me 👋</h1>
+  <p>I’m currently working on projects using C# language and .NET platform.
+     I’m learning C#, React, and .NET.</p>
+  <br>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=AmandaJhes&show_icons=true&theme=radical">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaJhes&show_icons=true&theme=radical">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
